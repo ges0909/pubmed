@@ -12,6 +12,8 @@ TODO: In Eschborn nachfragen, welche PubMed-Version für TRIP bereitgestellt wur
 
 TODO: Was ist Elasticsearch?
 
+TODO: RDBMS -> Table - Column / ES -> Index -> Type
+
 TODO: REST Interface?
 
 TODO: Bulk Data API? Layout JSON Records?
